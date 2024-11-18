@@ -27,7 +27,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-F79800?logo=eclipse-ide&logoColor=white&style=flat)
 
-## 📂 Notable Projects
+## 📂 Projects
 
 ### [여행정보 & 플래너 - BitTrip](https://github.com/themerous/PlanBit_BItcamp701)
 
