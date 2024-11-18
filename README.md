@@ -22,7 +22,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![OracleSQL](https://img.shields.io/badge/-OracleSQL-F80000?logo=oracle&logoColor=white&style=flat)
 
-### Tools & DevOps
+### Tools
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-F79800?logo=eclipse-ide&logoColor=white&style=flat)
