@@ -29,16 +29,21 @@
 
 ## 📂 Notable Projects
 
-### [Travel Information & Planner - BitTrip](https://github.com/themerous/PlanBit_BItcamp701)
-**Description:** I worked on the documnet based planner with the real-time collaborative editing and chatting system. Also I worked on the deployment and debugging codes for team.
-- **Key Features:**
-  - Planner with simultaneous multi-user editing
-  - Information Retrieval Using the Public Data Portal API(https://www.data.go.kr)
-  - Real-time Chatting System
-  - Social Login with Google, Naver, Kakao accounts
+### [여행정보 & 플래너 - BitTrip](https://github.com/themerous/PlanBit_BItcamp701)
 
-### []
+- **주요 기능**
+  - 다중 사용자가 동시에 편집할 수 있는 플래너
+  - 공공 데이터 포털 API(https://www.data.go.kr)를 사용한 정보 검색
+  - 실시간 채팅 시스템
+  - Google, 네이버, 카카오 계정으로 소셜 로그인
+ 
+### [우리만의 문제집 아카이브 - Quizverse](https://github.com/QuizVerse/finalQuizVerse)
 
+- **주요 기능**
+  - 스스로 문제를 출제하고 다른 사람들이 출제한 문제를 풀어볼 수 있다
+  - 문제를 풀고 채점 후 오답노트와 성적표 PDF 출력까지
+  - 모르는 문제를 다같이 풀어보거나 해설해 줄 수 있는 화상채팅 기능
+  - GPT API를 활용한 문제출제와 챗봇 기능
 
 ## 📫 How to Reach Me
 - **Email:** djfh611@naver.com
